@@ -1,0 +1,12 @@
+.container {
+	background-color: white;
+	width: 30%;
+	margin-top: 9%; 
+	box-shadow: 0 3px 20px rgba(0,0,0,0.3);
+	padding: 50px;
+	border: 4px solid black;
+    border-radius: 10px;
+}
+button {
+	width: 48%;
+}
