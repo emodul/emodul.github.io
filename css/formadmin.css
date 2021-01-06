@@ -1,0 +1,8 @@
+body { 
+		background-image : url(img/contoh.jpg);
+		background-size: cover;
+	}
+
+.container {
+	background-color: #000;
+}
